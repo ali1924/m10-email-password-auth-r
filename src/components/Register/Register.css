@@ -1,0 +1,11 @@
+.register-form{
+    text-align: center;
+}
+form input{
+    width: 280px;
+    padding: 8px;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 16px;
+    border: 1px solid salmon;
+}
